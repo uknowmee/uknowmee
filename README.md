@@ -52,5 +52,6 @@
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uknowmee&show_icons=true&theme=gruvbox&langs_count=8&hide=Jupyter%20Notebook,cmake,makefile&layout=compact)
-](https://github.com/anuraghazra/github-readme-stats)
+![Uknowmee's GitHub stats](https://github-readme-stats.vercel.app/api?username=uknowmee&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uknowmee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
