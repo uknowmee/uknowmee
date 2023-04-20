@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170" height="200"/>
+  <img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/michal-palucki-a58036273/">
@@ -52,10 +52,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
+---
 
+### :fire: My Stats :
 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=uknowmee)](https://git.io/streak-stats)
 
 <!--
 **uknowmee/uknowmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
