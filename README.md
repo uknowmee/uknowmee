@@ -48,10 +48,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
----
+<!-- --- -->
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats : -->
 
-![Uknowmee's GitHub stats](https://github-readme-stats-tau-olive.vercel.app/api?username=uknowmee&show_icons=true&theme=transparent)
+<!-- ![Uknowmee's GitHub stats](https://github-readme-stats-git-master-uknowmee.vercel.app/api?username=uknowmee&show_icons=true&theme=transparent) -->
 
-[![Top Langs](https://github-readme-stats-tau-olive.vercel.app/api/top-langs/?username=uknowmee&layout=compact)](https://github-readme-stats-tau-olive.vercel.app)
+<!-- [![Top Langs](https://github-readme-stats-uknowmee.vercel.app/api/top-langs/?username=uknowmee&layout=compact)](https://github-readme-stats-uknowmee.vercel.app) -->
