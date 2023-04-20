@@ -50,7 +50,7 @@
 
 ---
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats : -->
 
 <!-- ![Uknowmee's GitHub stats](https://github-readme-stats.vercel.app/api?username=uknowmee&show_icons=true&theme=transparent) -->
 
