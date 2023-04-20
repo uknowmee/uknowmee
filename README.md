@@ -9,6 +9,9 @@
     <a href="https://wakatime.com/@uknowmee">
       <img src="https://img.shields.io/badge/WakaTime-brightgreen?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Badge"/>
     </a>
+    <a href="mailto:michalpalucki@icloud.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="IcloudMail Badge"/>
+    </a>
   </div>
 
   <h1>
