@@ -1,5 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=72869986)
-
 <div id="header" align="center">
 
   <img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -12,8 +10,6 @@
       <img src="https://img.shields.io/badge/WakaTime-brightgreen?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime Badge"/>
     </a>
   </div>
-
-  <img src="https://komarev.com/ghpvc/?username=uknowmee&style=flat-square&color=blue" alt=""/>
 
   <h1>
     Hi there! It's nice to meet you!
