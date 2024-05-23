@@ -29,10 +29,17 @@
 
 ### :man_technologist: About Me :
 
-- I am a third year student of Computer Science and Intelligent Systems at AGH University of Science and Technology.
-- My main area of interest is software development using widely recognized design patterns and clean code principles.
-- I really enjoy coding, especially at night.
-- Java and C# are my favorite programming languages.
+I'm a student from Poland, currently working on my master's degree in Software Engineering at AGH University of Science and Technology.
+
+I've already got my B.Sc. in Computer Science and Intelligent Systems.
+
+I really like developing apps with combined patterns derived from DDD, modular monoliths, and microservices.
+
+Right now, I'm getting into self-hosted applications and having fun with Portainer <3.
+
+I really enjoy coding, especially at night....
+
+I'm passionate about .NET development, but I also have a good amount of experience with Java.
 
 ---
 
